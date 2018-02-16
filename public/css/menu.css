@@ -18,3 +18,14 @@ header.navbar div.navbar-nav-scroll.social li {
 .full-width{
 	width: 100%;
 }
+header#sub-header .col-8 .col {
+    padding: 0px;
+}
+header#sub-header button {
+    width: 100%;
+    border-radius: 0px;
+}
+.text-muted{
+	padding: 20px;
+	background: #eee;
+}
