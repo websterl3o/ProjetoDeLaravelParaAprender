@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"val\t.val()"
+			],
+			[
+				"val",
+				"value\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"container",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"cont",
+				"container \tBootstrap 4 Class"
+			],
+			[
+				"ta",
+				"table\t<table>"
+			],
+			[
+				"but",
+				"button\t<button>"
+			],
+			[
+				"end",
+				"endsection"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"ro",
+				"rowspan"
+			],
+			[
+				"th",
+				"th\t<th>"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"ha",
+				"hashName"
+			],
+			[
+				"size",
+				"sizeof〔function〕"
+			],
+			[
+				"pa",
+				"$path〔variable〕"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"sec",
+				"sec\tblade-section"
+			],
+			[
+				"y",
+				"yield"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"link",
+				"links\tlink - stylesheet"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"inpu",
+				"inputh\tinput - hidden"
+			],
+			[
+				"_",
+				"$_GET〔variable〕"
+			],
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"wid",
+				"width: 〔property〕"
+			],
+			[
+				"inp",
+				"inputt\tinput - text"
+			],
+			[
+				"span",
+				"span\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"hei",
+				"height: 〔property〕"
+			],
+			[
+				"__",
+				"_MENU_"
+			],
+			[
+				"_pa_",
+				"_PAGES_"
+			],
+			[
+				"the",
+				"thead\tTag"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"fore",
+				"foreach\tblade-foreach"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"auto save",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"THEME",
+				"UI: Select Theme"
+			]
+		],
+		"width": 762.0
+	},
+	"console":
+	{
+		"height": 128.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leowebster/Desktop/Sites/ProjetoDeLaravelParaAprender"
+	],
+	"file_history":
+	[
+		"/Users/leowebster/Desktop/Sites/quickstart/resources/views/home.blade.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2018_02_15_162756_create_dados_usuario_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2018_02_15_160122_alter_arquivos_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/app/Http/Controllers/ArquivoController.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/app/Http/Controllers/TasksController.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/resources/views/task.blade.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/resources/views/tasks.blade.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/resources/views/newtask.blade.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/seeds/TaskTableSeeder.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/fonts/glyphicons-halflings-regular.svg",
+		"/Users/leowebster/Desktop/Sites/quickstart/config/filesystems.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/resources/views/layouts/app.blade.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/routes/web.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/app/Arquivo.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/app/Task.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/app/Http/Controllers/Controller.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2018_02_05_113632_create_tasks_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2018_02_08_154627_create_arquivos_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2018_02_08_180959_alter_arquivos_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/vendor/psy/psysh/src/Psy/functions.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/resources/views/auth/login.blade.php",
+		"/Users/leowebster/Downloads/diario06022018.pdf",
+		"/Users/leowebster/Desktop/Sites/quickstart/public/js/app.js",
+		"/Users/leowebster/Desktop/Sites/quickstart/public/css/app.css",
+		"/Users/leowebster/Desktop/Sites/quickstart/resources/views/welcome.blade.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/routes/api.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/.env",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2018_02_07_105041_alter_task_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/untitled.sublime-project",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/seeds/DatabaseSeeder.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/seeds/Tasks.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/seeds/CostomersTableSeeder.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/webpack.mix.js",
+		"/Users/leowebster/Desktop/Sites/quickstart/routes/quick.sublime-project",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2018_02_05_162306_alter_tasks_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/app/User.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/factories/UserFactory.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/database/migrations/2018_02_05_161825_create_task_table.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/config/database.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/composer.json",
+		"/Users/leowebster/Desktop/Sites/quickstart/resources/views/deletetask.blade.php",
+		"/Users/leowebster/Desktop/Sites/quickstart/server.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Novo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fonts/",
+				"vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/fonts/glyphicons-halflings-regular.svg"
+			],
+			[
+				"new",
+				"resources/views/newtask.blade.php"
+			],
+			[
+				"config/fi",
+				"config/filesystems.php"
+			],
+			[
+				"taskscontroller",
+				"app/Http/Controllers/TasksController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"file",
+				"config/filesystems.php"
+			],
+			[
+				"functions",
+				"vendor/phpunit/phpunit/src/Framework/Assert/Functions.php"
+			],
+			[
+				"",
+				"resources/views/home.blade.php"
+			],
+			[
+				"app",
+				"public/css/app.css"
+			],
+			[
+				"app.css",
+				"public/css/app.css"
+			],
+			[
+				"home",
+				"resources/views/home.blade.php"
+			],
+			[
+				"login",
+				"resources/views/auth/login.blade.php"
+			],
+			[
+				"taks",
+				"resources/views/tasks.blade.php"
+			],
+			[
+				"qu",
+				"routes/quick.sublime-project"
+			],
+			[
+				"tasksc",
+				"app/Http/Controllers/TasksController.php"
+			],
+			[
+				"app.bla",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"takss",
+				"app/Http/Controllers/Tasks.php"
+			],
+			[
+				"control",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"compoer",
+				"composer.json"
+			],
+			[
+				"data",
+				"config/database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 460.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
