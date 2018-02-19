@@ -1,24 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Login</title>
-    <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/menu.css') }}" rel="stylesheet">
-    <link href="{{ asset('/open-iconic/font/css/open-iconic.css') }}" rel="stylesheet">
-    <link href="{{ asset('/open-iconic/font/css/open-iconic-bootstrap.css') }}" rel="stylesheet">
-    <link href="{{ asset('/open-iconic/font/css/open-iconic-foundation.css') }}" rel="stylesheet">
-    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet"></head>
-</head>
-<body style="background: #fff;">
-    <div class="container-fluid">
-        <div class="row flex-xl-nowrap">
-            <div class="d-none d-xl-block col-xl-2 bd-toc">
-                
-            </div>
-            <main class="col-12 col-md-9 col-xl-8 py-md-3 bd-content" >
+@extends('layouts.principal')
+@section('title')
+Login
+@endsection
+
+@section('content')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
@@ -84,13 +69,4 @@
         </div>
     </div>
 </div>
-            </main>
-            <div class="d-none d-xl-block col-xl-2 bd-toc">
-                
-            </div>
-        </div>
-    </div>
-    <script src="{{ asset('js/app.js') }}"></script>
-    <script src="{{ asset('js/funcoes.js') }}"></script>
-</body>
-</html>
+@endsection

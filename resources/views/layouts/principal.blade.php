@@ -167,7 +167,7 @@
 			<div class="d-none d-xl-block col-xl-2 bd-toc">
 				
 			</div>
-			<main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" style="background: #fff;">
+			<main class="col-12 col-md-9 col-xl-8 py-md-3 bd-content" style="background: #fff;">
 				@yield('content')
 			</main>
 			<div class="d-none d-xl-block col-xl-2 bd-toc">
